@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "BNKendall";
+    src: url(/gaming_tournament/public/fonts/BNKendall.otf);
+}
+
+*{
+    font-family: "BNKendall";
+}

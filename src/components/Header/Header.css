@@ -1,0 +1,22 @@
+@font-face {
+    font-family: "BNKendall";
+    src: url(/fonts/BNKendall.otf);
+}
+
+@font-face {
+    font-family: "Heming Variable";
+    src: url(/fonts/Heming\ Variable.ttf);
+}
+
+@font-face {
+    font-family: "Ranade";
+    src: url(/fonts/Ranade-Variable.ttf);
+}
+
+.nav-tag{
+    font-family: "Ranade";
+}
+
+.get-started{
+    font-family: "BNKendall";
+}
